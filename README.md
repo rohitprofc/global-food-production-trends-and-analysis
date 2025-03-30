@@ -25,3 +25,5 @@ The application displays Power BI dashboards together with visualizations which 
 ## Power BI Dashboard
 
 ## Video Demonstration
+
+## Testimonial Video
